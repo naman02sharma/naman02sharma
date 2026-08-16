@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  BTech CSE Student | Web Developer | AI & Data Analytics Learner | Building Automation & Web Tools
 
 
